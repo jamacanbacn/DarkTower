@@ -23,3 +23,8 @@ Assets used
 [DungeonLamps](https://marketplace-website-node-launcher-prod.ol.epicgames.com/ue/marketplace/en-US/product/dungeon-lamps)
 
 [SuperGrid](https://marketplace-website-node-launcher-prod.ol.epicgames.com/ue/marketplace/en-US/product/supergrid-starter-pack)
+
+[Sound Phenomenon Fantasy Orchestra
+](https://marketplace-website-node-launcher-prod.ol.epicgames.com/ue/marketplace/en-US/product/fantasy-orchestral-music)
+
+[Defects Ultimate Props Bundle Vol.1](https://marketplace-website-node-launcher-prod.ol.epicgames.com/ue/marketplace/en-US/product/defect-ultimate-props-bundle-vol)
